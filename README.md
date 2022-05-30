@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**teejaytas/teejaytas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on DevOps Engineer
 - 🌱 I’m currently learning Data Science
@@ -13,5 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/sctgmf/
 - 😄 Pronouns: Satya
 - ⚡ Fun fact: Fast Learner With Graps Thinker
--->
 
