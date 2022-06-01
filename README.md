@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on DevOps Engineer
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning MlOps
 - 👯 I’m looking to collaborate on Architect, Data Engineer And Devops
 - 🤔 I’m looking for help with DevOps Issue, DevSecOps, DataOps, MLOps
 - 💬 Ask me about Anything Releated to Cloud and MLOps
